@@ -1,20 +1,23 @@
 # Motion-planning
 Some personal notes about motion planning  
-# Result of Astar and Jump Point Search  
-Red path belongs to Jump Point Search and green one belongs to Astar  
+# 多机器人 轨迹规划
+![image](https://github.com/wangzhengjiu/Motion-planning/blob/master/multi_robot/img/multi_robot.gif)
 
-![image](https://github.com/WangZhengJiu/Motion-planning/blob/master/Astar_JPS/ros/result/red%20_jps%20green%20A%20star.png)
-![image](https://github.com/WangZhengJiu/Motion-planning/blob/master/Astar_JPS/ros/result/A%20JPS.png)
 
-# Result of RRT
-Matlab    
-![image](https://github.com/WangZhengJiu/Motion-planning/blob/master/RRT/Matlab/result/Matlab.png)
 
-ROS  
-![image](https://github.com/WangZhengJiu/Motion-planning/blob/master/RRT/ROS/result/ROS.png)
-# Result of local lattice
-![image](https://github.com/WangZhengJiu/Motion-planning/blob/master/Local%20state%20lattice%20%26optimal%20boundary%20value%20problem/ROS%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE.png)
+# 车辆队列 轨迹规划
+## 换道
+![image](https://github.com/wangzhengjiu/Motion-planning/blob/master/vehiche_queue/img/%E5%90%8C%E6%AD%A5%E6%8F%9B%E9%81%93.gif)
 
-# Result of minimum snap trajectory generation
-![image](https://github.com/WangZhengJiu/Motion-planning/blob/master/minimum%20snap/img/1.PNG)
-![image](https://github.com/WangZhengJiu/Motion-planning/blob/master/minimum%20snap/img/2.PNG)
+## 车辆驶出队列
+![image](https://github.com/wangzhengjiu/Motion-planning/blob/master/vehiche_queue/img/%E8%BD%A6%E8%BE%86%E9%A9%B6%E5%87%BA%E9%98%9F%E5%88%97.gif)
+
+## 车辆驶入队列
+
+![image](https://github.com/wangzhengjiu/Motion-planning/blob/master/vehiche_queue/img/%E8%BD%A6%E8%BE%86%E9%A9%B6%E5%85%A5%E9%98%9F%E5%88%97.gif)
+
+## 自适应巡航
+
+![image](https://github.com/wangzhengjiu/Motion-planning/blob/master/vehiche_queue/img/%E5%BC%AF%E9%81%93%E8%87%AA%E9%80%82%E5%BA%94%E5%B7%A1%E8%88%AA.gif)
+
+
